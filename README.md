@@ -17,5 +17,7 @@ The repository is organized into two main sections
    3. Data_analysis_votes_age.ipynb -->  Statistical analysis of the responses to the heat perceptions depending on the age, including histograms and bar-plots
    4. Data_analysis_votes_other_sociodem.ipynb -->  Statistical analysis of the responses to the heat perceptions depending on the neighbourhood kwnowledge, time spent in public space and category of the public splace, including histograms and bar-plots and correlation heat-maps between different sociodemographic responses.
    5. Data_analysis_votes_places.ipynb -->  Statistics of the 5 places in which the thermal walks took place. It includes general statistics and correlation with different socio-demographic responses and socio-economic traits of the neighbourhoods/cities.
+   6. Data_analysis_urban_factos.ipynb --> Statistical analysis of the main urban parameters (NDVI and Sky View Factor) that characterize each of the 210 public spaces where participants stopped and answered the thermal surveys. It includes histograms and an analysis between the thermal responses and the urban factors.
+
   
 
